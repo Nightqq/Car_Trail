@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\color\\abc_primary_text_material_light.xml"
+    }
+]

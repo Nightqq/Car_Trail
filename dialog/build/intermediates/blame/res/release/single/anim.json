@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\error_x_in.xml",
+        "source": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\src\\main\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\modal_in.xml",
+        "source": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\src\\main\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\modal_out.xml",
+        "source": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\src\\main\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\success_mask_layout.xml",
+        "source": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\src\\main\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\error_frame_in.xml",
+        "source": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\src\\main\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\success_bow_roate.xml",
+        "source": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\src\\main\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "D:\\Application\\android studio\\svn\\trunk\\CarTrail\\dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\c1edadfb2d3288ae20b7884e0d2128734eda6f3b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
