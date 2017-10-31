@@ -55,7 +55,7 @@ public class AreaActivity extends BaseActivity {
 
     private void initdata() {
         List<AreaInfo> areaInfoList = AreaHelper.getAreaInfoListFromDB();
-        if (areaInfoList != null) {
+        if (areaInfoList != null&& areaInfoList.size()>0) {
             AreaInfo areaInfo = areaInfoList.get(0);
             //读取数据库信息，显示数据
             areaId.setText(areaInfo.getArea_Id()+"");
@@ -73,7 +73,7 @@ public class AreaActivity extends BaseActivity {
     public void onViewClicked(View view) {
         switch (view.getId()) {
             case R.id.toobar_upload:
-                Toast.makeText(this, "暂未实现", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "下期实现", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.area_id_change:
                 //弹出弹窗
